@@ -1,8 +1,9 @@
-# Lucky7Game
+Design a Lucky 7 game using PHP and HTML. The rules are as follows -
+
 
 min 1 end mix 6
 
-1 round  1 + 2 =3
+1 round  1 2 =3
 
 The game contains 2 dice
 
