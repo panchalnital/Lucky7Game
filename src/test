@@ -1,0 +1,18 @@
+Design a Lucky 7 game using PHP and HTML. The rules are as follows -
+
+
+min 1 end mix 6
+
+1 round  1 2 =3
+
+The game contains 2 dice
+
+The user starts with 100 Rs
+At the start of every round, User bets 10 Rs.
+
+The user has three options to choose from - below 7, lucky 7 and above 7
+
+Dice are rolled and their sums are calculated
+
+If the user bet and dice rolled sum match, user wins 20 Rs. If its lucky 7 that user bet and sum is 7 user wins 30 Rs
+else user looses
